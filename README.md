@@ -1,10 +1,10 @@
 # PHP IP Tools
 
 [![Build Status](https://travis-ci.org/k7brasil/php-ip-tools.svg?branch=master)](https://travis-ci.org/k7brasil/php-ip-tools)
-[![Latest Stable Version](https://img.shields.io/packagist/v/KSeven/ip-tools.svg)](https://packagist.org/packages/KSeven/ip-tools)
-[![Total Downloads](https://img.shields.io/packagist/dt/KSeven/ip-tools.svg)](https://packagist.org/packages/KSeven/ip-tools)
-[![Downloads Month](https://img.shields.io/packagist/dm/KSeven/ip-tools.svg)](https://packagist.org/packages/KSeven/ip-tools)
-[![License](https://img.shields.io/packagist/l/KSeven/ip-tools.svg)](https://github.com/k7brasil/ip-tools/LICENSE.md)
+[![Latest Stable Version](https://img.shields.io/packagist/v/kseven/ip-tools.svg)](https://packagist.org/packages/kseven/ip-tools)
+[![Total Downloads](https://img.shields.io/packagist/dt/kseven/ip-tools.svg)](https://packagist.org/packages/kseven/ip-tools)
+[![Downloads Month](https://img.shields.io/packagist/dm/kseven/ip-tools.svg)](https://packagist.org/packages/kseven/ip-tools)
+[![License](https://img.shields.io/packagist/l/kseven/ip-tools.svg)](https://github.com/k7brasil/ip-tools/LICENSE.md)
 
 
 Universal IP Tools for manipulation on IPv4 and IPv6.
